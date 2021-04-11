@@ -70,7 +70,7 @@ git add .
 Now commit those changes using the `git commit` command:
 
 ```
-git commit -m "Add <your-name> to Contributors list. Give a meaningful message describing what significant feature/attribute did you work on"
+git commit -m "made a new folder <firstname_lastname> and added projects."
 ```
 
 replace `<your-name>` with your name.
