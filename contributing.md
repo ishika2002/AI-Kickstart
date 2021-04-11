@@ -55,7 +55,7 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Make changes to your file.
+Create a new folder by your name (for example FirstName_LastName), add your files to the folder.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
