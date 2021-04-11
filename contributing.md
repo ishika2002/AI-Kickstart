@@ -1,6 +1,6 @@
 # ⭐HOW TO MAKE A PULL REQUEST:
 
-![Github Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+[Github Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## Fork this repository
 
