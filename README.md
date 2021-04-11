@@ -19,7 +19,7 @@ Fundamentals of Machine Learning and its Algorithms
 # DAY 4
 Hand-on Project based learning
 
-# Day 5 & 6 : 
+# Day 5 & 6 
 Evaluation Break
 
 # Day 7
